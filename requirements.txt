@@ -3,7 +3,7 @@ torch==1.7+cpu
 tochvision==0.8.2+cpu
 flask==1.1.2,<1.2
 numpy==1.19.2
-transformers==4.2.1
+transformers==4.30.0
 flask-restplus==0.13.0,<0.14.0
 gunicorn>=19,<20
 
